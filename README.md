@@ -1,4 +1,4 @@
 ### 👋
-Software Engineer @<a link href='https://nordnetab.com/'>Nordnet Bank</a>, based in Stockholm, Sweden.
+Software Engineer, based in Stockholm, Sweden.
 
 E-mail me at `<<firstname>>@<<lastname>>.se`.
